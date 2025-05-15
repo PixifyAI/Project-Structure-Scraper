@@ -1,4 +1,4 @@
-# 💾 Project Structure Scraper Neon  Neon 💾
+# 💾 Project Structure Scraper 💾
 
 ![Project Scraper Screenshot](002.png)
 *A glimpse of the Scraper in action with its dark, neon-themed interface.*
